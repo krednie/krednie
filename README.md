@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @krednie
-- 👀 I’m interested i
+- 👀 I’m currently pursuing b.tech in cse+ai
 - 🌱 I’m currently learning c++
+- id be helpful if u can teach me something
 - u can contact me on krednie@gmail.com ^^
 
 <!---
