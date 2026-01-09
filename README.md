@@ -1,5 +1,4 @@
-- 
-- I’m currently building a redis clone for hands on experience with the tech and polishing my coding skills in cpp and python.
+ - I’m currently building a redis clone for hands on experience with the tech and polishing my coding skills in cpp and python.
 - krednie@gmail.com 
 
 <!---
